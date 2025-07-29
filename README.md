@@ -2,9 +2,9 @@ ShapeFile Identifier Tool
 ========================
 
 Developped by Cesc Casanovas for Aistech Space
-cesc.casanovas@aistechspace.com
+\ncesc.casanovas@aistechspace.com
 
-Description:
+Description
 ------------
 This tool generates shapefiles from images by identifying colored areas (default: blue). It converts pixel coordinates to geographic coordinates using provided bounds.
 
