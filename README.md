@@ -1,8 +1,8 @@
 ShapeFile Identifier Tool
 ========================
 
-Developped by Cesc Casanovas for Aistech Space
-\ncesc.casanovas@aistechspace.com
+Developped by Cesc Casanovas for Aistech Space  
+cesc.casanovas@aistechspace.com
 
 Description
 ------------
