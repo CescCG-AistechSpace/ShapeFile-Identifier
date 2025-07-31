@@ -38,8 +38,8 @@ Usage
    ```
    python3 main.py
    ```
-4. Review your shapefile, adjust the parameters and rerun
-       You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile and it should appear like this:
+4. Review your shapefile, adjust the parameters and rerun  
+    - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:
    
 
 Output
