@@ -39,8 +39,8 @@ Usage
    ```
 4. Review your shapefile, adjust the parameters and rerun  
 
-    - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:
-    ![ShapeFile Viewer Review](../GitImages/AOIReview-ShapefileViewer.png)
+    - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:  
+    [ShapeFile Viewer Review](/Images/AOIReview-ShapefileViewer.png)
 
 Output
 ------
