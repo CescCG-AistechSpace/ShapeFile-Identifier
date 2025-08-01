@@ -24,22 +24,23 @@ Usage
    a. Image name:
       image_name = 'YourImage.png'
 
-   b. Geographic bounds:
-      top_left_lat = latitude value
-      top_left_lon = longitude value
-      bottom_right_lat = latitude value
-      bottom_right_lon = longitude value
+ 
+   b. Geographic bounds:  
+      - top_left_lat = latitude value    |    top_left_lon = longitude value  
+      - bottom_right_lat = latitude value    |    bottom_right_lon = longitude value  
 
-   c. Optional: Adjust color detection (default is blue):
-      lower_blue = [110, 60, 60]   # HSV values
-      upper_blue = [140, 255, 255] # HSV values
+   c. Optional: Adjust color detection (default is blue):  
+      - lower_blue = [99, 130, 220]   # HSV Values  
+      - upper_blue = [130, 255, 255]  # HSV Values  
 
 3. Run the tool:
    ```
    python3 main.py
    ```
 4. Review your shapefile, adjust the parameters and rerun  
-    - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:
+    - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:  
+    ![ShapeFile Viewer Review](/Images/AOIReview-ShapefileViewer.png)
+
    
 
 Output
