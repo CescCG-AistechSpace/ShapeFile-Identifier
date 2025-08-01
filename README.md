@@ -26,36 +26,21 @@ Usage
 
  
    b. Geographic bounds:  
-<<<<<<< HEAD
-      top_left_lat = latitude value       |   top_left_lon = longitude value  
-      bottom_right_lat = latitude value   |   bottom_right_lon = longitude value  
-
-   c. Optional: Adjust color detection (default is blue):  
-      lower_blue = [99, 130, 220]   # HSV Values  
-      upper_blue = [130, 255, 255]  # HSV Values  
-=======
       - top_left_lat = latitude value    |    top_left_lon = longitude value  
       - bottom_right_lat = latitude value    |    bottom_right_lon = longitude value  
 
    c. Optional: Adjust color detection (default is blue):  
       - lower_blue = [99, 130, 220]   # HSV Values  
       - upper_blue = [130, 255, 255]  # HSV Values  
->>>>>>> ca9c5682afdb21bbab02903d7cdbd1262ba63b19
 
 3. Run the tool:
    ```
    python3 main.py
    ```
 4. Review your shapefile, adjust the parameters and rerun  
-<<<<<<< HEAD
+
     - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:
     ![ShapeFile Viewer Review](../GitImages/AOIReview-ShapefileViewer.png)
-=======
-    - You can use [ShapeFile Viewer](https://www.chatdb.ai/tools/shapefile-viewer) to review your ShapeFile. It should appear like this:  
-    ![ShapeFile Viewer Review](/Images/AOIReview-ShapefileViewer.png)
->>>>>>> ca9c5682afdb21bbab02903d7cdbd1262ba63b19
-
-   
 
 Output
 ------
