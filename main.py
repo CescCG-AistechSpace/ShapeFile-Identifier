@@ -8,15 +8,15 @@ import sys
 # (3. OPTIONAL Adjust the Blue Color Range for the mask if needed)
 
 # 1. Image to generate shapefile for
-image_name = 'Barcelona.png'  
+image_name = 'BarcelonaAOI.png'  
 
 # 2. Top-left coordinates & Bottom-right coordinates
-top_left_lat, top_left_lon = 41.500308, 1.841756  
-bottom_right_lat, bottom_right_lon = 41.287569, 2.494756 
+top_left_lat, top_left_lon = 41.529766, 1.763930  
+bottom_right_lat, bottom_right_lon = 41.244830, 2.615664
 
 # (3. OPTIONAL ONLY MODIFY TO ADJUST THE COLOR OF THE POLYGON SELECTED - Blue Color Range for the mask)
-lower_blue = [110, 60, 60]
-upper_blue = [140, 255, 255]
+lower_blue = [99, 130, 220]
+upper_blue = [130, 255, 255]
 
 def main():
 
